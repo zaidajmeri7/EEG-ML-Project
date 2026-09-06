@@ -1,0 +1,10 @@
+data/deap/
+*.dat
+
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+.ipynb_checkpoints/
